@@ -1,0 +1,6 @@
+*.json
+*.txt
+avoid-list.csv
+*.bkp
+__pycache__
+.vscode
