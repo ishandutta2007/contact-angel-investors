@@ -17,3 +17,10 @@ On how to setup gmail API follow [this](https://github.com/shankarj67/python-gma
 1. Modify the templates `first_touch_mail.html` or `followup_mail.html` as per need. If you need to rename or recreate new html template feel free to do so, just make sure you update name of it in `send_main.py`(as of now hardcoded)
 
 2. `python3 send_mail.py`
+
+### Support:
+
+If you want the good work to continue please support us on
+
+* [PAYPAL](https://www.paypal.me/ishandutta2007)
+* [BITCOIN ADDRESS: 3LZazKXG18Hxa3LLNAeKYZNtLzCxpv1LyD](https://www.coinbase.com/join/5a8e4a045b02c403bc3a9c0c)
